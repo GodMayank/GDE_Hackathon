@@ -7,6 +7,3 @@ INSERT INTO User_Demographics VALUES
 ('U1239', 21, 'Female', 'Movies;Travel'),
 ('U5678', 30, 'Female', 'Reading;Photography'),
 ('U9101', 27, 'Male', 'Gaming;Music');
-
-insert into Campaigns values 
-();

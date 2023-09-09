@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS User_Demographics (
     user_id VARCHAR(10),
     age INT,
-    gender ENUM('Male', 'Female'),
+    gender VARCHAR(10) CHECK (gender IN ('Male', 'Female')),
     interests VARCHAR(100),
-    CONSTRAINT pk PRIMARY KEY (user_id)
+    PRIMARY KEY (user_id)
 );
