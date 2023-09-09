@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T13:49:25.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8ovhXJwV5yaA1_8hrz3y" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T13:53:28.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="evSylWTE0jdvGdPOzQgI" version="21.7.4" type="github">
   <diagram name="Page-1" id="XPvFYeZU_mqQ_57prnjv">
-    <mxGraphModel dx="1257" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,28 @@
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-39" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Stream 2 - Ad Conversions Stream&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="270" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="rWK_Hk4ZgVPo0p1i_7MY-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-45" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;Spark -&amp;nbsp;&amp;nbsp;Real-time Data Processing&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.glue;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="80" width="130" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0B4D6A;" edge="1" parent="1" source="rWK_Hk4ZgVPo0p1i_7MY-53" target="rWK_Hk4ZgVPo0p1i_7MY-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-53" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="103.5" width="110" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-55" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;AWS Dynamo DB&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-56" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.reported_state;fillColor=#5294CF;gradientColor=none;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="105" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-58" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;b&gt;Historical&lt;br&gt;Reports&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="230" width="95" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
