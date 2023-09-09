@@ -3,5 +3,6 @@ CREATE TABLE IF NOT EXISTS Campaigns (
     campaign VARCHAR(100),
     product VARCHAR(100),
     target_start_date DATE,
-    target_end_date DATE
+    target_end_date DATE,
+    CONSTRAINT pk PRIMARY KEY (ad_id)
 );
