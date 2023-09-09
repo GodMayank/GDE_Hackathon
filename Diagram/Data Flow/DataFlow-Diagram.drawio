@@ -1,17 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T13:46:07.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FEz7o8I0Ca3WibQnb0mC" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T13:49:25.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8ovhXJwV5yaA1_8hrz3y" version="21.7.4" type="github">
   <diagram name="Page-1" id="XPvFYeZU_mqQ_57prnjv">
-    <mxGraphModel dx="880" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;" edge="1" parent="1" source="rWK_Hk4ZgVPo0p1i_7MY-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="360" width="340" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-37" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="20" width="150" height="310" as="geometry" />
         </mxCell>
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-11" value="&lt;font color=&quot;#000000&quot;&gt;Amazon Redshift -&amp;nbsp;User Demographics&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.redshift;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="640" width="100" height="150" as="geometry" />
+          <mxGeometry x="900" y="370" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-12" value="&lt;font color=&quot;#000000&quot;&gt;Amazon Redshift -&amp;nbsp;Campaigns&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#EEEEEE;strokeColor=#BAC8D3;fillColor=#09555B;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.redshift;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="750" y="440" width="100" height="130" as="geometry" />
+          <mxGeometry x="740" y="370" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rWK_Hk4ZgVPo0p1i_7MY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0B4D6A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="rWK_Hk4ZgVPo0p1i_7MY-15" target="rWK_Hk4ZgVPo0p1i_7MY-22">
           <mxGeometry relative="1" as="geometry" />
